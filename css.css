@@ -232,9 +232,6 @@ h8{margin-bottom:var(--bs-card-title-spacer-y); font-size:18px;
   .progress-bar-animated{-webkit-animation:none;animation:none}
 }
 
-
-
-
 .btn-check{position:absolute;clip:rect(0,0,0,0);pointer-events:none}.btn-check:disabled+.btn,.btn-check[disabled]+.btn{pointer-events:none;filter:none;opacity:.65}
 
 .btn{--bs-btn-padding-x:0.75rem;
