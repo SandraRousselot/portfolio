@@ -110,11 +110,11 @@ header nav ul li a {
 
 header nav ul li.active a,
 header nav ul li.active a:hover {
-    background-color: rgba(126, 110, 97, 0.15);
+    background-color: rgba(140, 220, 100, 0.15);
 }
 
 header nav ul li:hover a {
-    background-color: rgba(126, 110, 97, 0.15);
+    background-color: rgba(140, 220, 100, 0.15);
 }
 
 .card{
