@@ -232,7 +232,7 @@ h8{margin-bottom:var(--bs-card-title-spacer-y); font-size:18px;
   rgba(14, 184, 0, 0.671) 50%,
   rgba(255,255,255,.15) 50%,
   rgba(255,255,255,.15) 75%,
-  rgba(255, 159, 32, 0.671) 75%,rgba(255, 159, 32, 0.671));
+  rgba(158, 205, 119, 0.671) 75%,rgba(158, 205, 119, 0.671));
   background-size:var(--bs-progress-height) var(--bs-progress-height);
 }
 
