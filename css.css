@@ -1,5 +1,5 @@
 html{
-  background: linear-gradient(192deg, rgba(255, 89, 172, 0.795), rgb(255, 183, 124) 11%);
+  background: linear-gradient(192deg, rgba(81, 160, 36, 0.795), rgb(160, 94, 36) 11%);
   font-family: 'Courier New', Courier, monospace;
   color:white;
 }
@@ -57,7 +57,7 @@ li {
 
 .motMeles{
   font-weight: bold;
-    text-shadow: rgb(126, 110, 97) 0px 0px 5px;
+    text-shadow: rgb(81, 160, 36) 0px 0px 5px;
 }
 
 a,
