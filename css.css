@@ -1,5 +1,5 @@
 html{
-  background: linear-gradient(192deg, rgba(81, 160, 36, 0.795), rgb(160, 94, 36) 11%);
+  background: linear-gradient(192deg, rgba(212, 146, 97, 0.795), rgb(144, 212, 97) 11%);
   font-family: 'Courier New', Courier, monospace;
   color:white;
 }
@@ -57,7 +57,7 @@ li {
 
 .motMeles{
   font-weight: bold;
-    text-shadow: rgb(81, 160, 36) 0px 0px 5px;
+    text-shadow: rgb(144, 212, 97) 0px 0px 5px;
 }
 
 a,
@@ -129,7 +129,7 @@ header nav ul li:hover a {
   --bs-card-cap-color: ;
   --bs-card-height: ;
   --bs-card-color: ;
-  --bs-card-bg:rgba(255, 0, 98, 0.2);
+  --bs-card-bg:rgba(14, 184, 0, 0.2);
   position:relative;
   display:flex;
   flex-direction:column;
@@ -228,8 +228,8 @@ h8{margin-bottom:var(--bs-card-title-spacer-y); font-size:18px;
 .progress-bar-striped{
   background-image:linear-gradient(135deg,
   rgba(255,255,255,.15) 25%,
-  rgba(255, 159, 32, 0.671) 25%,
-  rgba(255, 159, 32, 0.671) 50%,
+  rgba(14, 184, 0, 0.671) 25%,
+  rgba(14, 184, 0, 0.671) 50%,
   rgba(255,255,255,.15) 50%,
   rgba(255,255,255,.15) 75%,
   rgba(255, 159, 32, 0.671) 75%,rgba(255, 159, 32, 0.671));
