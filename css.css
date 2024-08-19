@@ -1,5 +1,5 @@
 html{
-  background: linear-gradient(192deg, rgba(212, 146, 97, 0.795), rgb(144, 212, 97) 11%);
+  background: linear-gradient(192deg, rgba(212, 146, 97, 0.795), rgb(158, 213, 128) 11%);
   font-family: 'Courier New', Courier, monospace;
   color:white;
 }
@@ -129,7 +129,7 @@ header nav ul li:hover a {
   --bs-card-cap-color: ;
   --bs-card-height: ;
   --bs-card-color: ;
-  --bs-card-bg:rgba(14, 184, 0, 0.2);
+  --bs-card-bg:rgba(158, 213, 128, 0.2);
   position:relative;
   display:flex;
   flex-direction:column;
